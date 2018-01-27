@@ -2,7 +2,7 @@
 
 ## Who are your customers? 
 
-The Website will be desiged for specific group of people who are interested in Sports.
+The Website will be desiged for specific group of people who are interested in Sports(primarily United Fight League,to include other sports as we progress)
 
   1. Sports Analysts,
   2. Journalists/New Channels
@@ -12,14 +12,17 @@ The Website will be desiged for specific group of people who are interested in S
 
 ## What are their needs? 
 
-  1. Sport Enthusiast wants to predict the game outcomes.
+  1. Sport Enthusiast wants to predict the fight/game outcomes.
   2. News channels and journalist wants to forecast the outcomes for their viewers
+  3. All of them need access to player statistics.
 
-This website can help them predict the outcomes with sufficient accuracy.
+This website can display player/team statistics and help them predict the outcomes with sufficient accuracy.
 
 ## What specific problem(s) will you solve? 
 
-  1. Basic Exploratory Analysis
+  1. Web scraping
+      * Gathering the pertnent data from websites to perform analysis.
+  2. Basic Exploratory Analysis
       * Explore the current trends in the data.
       * Look for gaps in the understanding using the data
   2. Peredictive Analysis (Based on the time availability)
