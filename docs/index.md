@@ -12,12 +12,19 @@ The Website will be desiged for specific group of people who are interested in S
 
 ## What are their needs? 
 
-Right before the games, the media, the teams and the analyst predict the game outcomes or their chances to win the game. 
+  a. Sport Enthusiast wants to predict the game outcomes.
+  b. News channels and journalist wants to forecast the outcomes for their viewers
+
 This website can help them predict the outcomes with sufficient accuracy.
 
 ## What specific problem(s) will you solve? 
 
-Reducing the uncertainty in the game outcomes using the collected attributes/statistics about teams and players.
+  a. Basic Exploratory Analysis
+      - Explore the current trends in the data.
+      - Look for gaps in the understanding using the data
+  b. Peredictive Analysis (Based on the time availability)
+      - Predict the performance of the player
+ Overall Reducing the uncertainty in the game outcomes using the collected attributes/statistics about teams and players.
 
 ## Why do these problems need solved?
 
@@ -26,4 +33,9 @@ Profit opportunities if we can predict game outcome with sufficient accuracy.
 
 ## Where are you going to pull the data from?
 
-NFL.com, NBA.com, UFC.com, other Sports news websites like cbssports, bleacherreport
+*Note: Subject to change based on the rights to scrape the website
+
+  a. NFL.com
+  b. NBA.com 
+  c. UFC.com 
+  d. Other Sports news websites like cbssports, bleacherreport
