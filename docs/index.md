@@ -28,14 +28,14 @@ This website can help them predict the outcomes with sufficient accuracy.
 
 ## Why do these problems need solved?
 
-Predicting sports outcome with sufficient accuracy is a still unsolved problem. 
-Profit opportunities if we can predict game outcome with sufficient accuracy.
+  1. Predicting sports outcome with sufficient accuracy is a still unsolved problem. 
+  2. Profit opportunities if we can predict game outcome with sufficient accuracy.
 
 ## Where are you going to pull the data from?
 
 *Note: Subject to change based on the rights to scrape the website
 
-  a. NFL.com
-  b. NBA.com 
-  c. UFC.com 
-  d. Other Sports news websites like cbssports, bleacherreport
+  1. NFL.com
+  2. NBA.com 
+  3. UFC.com 
+  4. Other Sports news websites like cbssports, bleacherreport
