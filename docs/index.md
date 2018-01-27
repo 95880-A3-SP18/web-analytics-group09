@@ -4,11 +4,11 @@
 
 The Website will be desiged for specific group of people who are interested in Sports.
 
-  a. Sports Analysts, 
-  b. Journalists/New Channels
-  c. Sports Analyst
-  d. Sports Enthusiasts
-  e. Teams bidding for the players
+  1. Sports Analysts,
+  2. Journalists/New Channels
+  3. Sports Analyst
+  4. Sports Enthusiasts
+  5. Teams bidding for the players
 
 ## What are their needs? 
 
