@@ -21,7 +21,7 @@ This website can display player/team statistics and help them predict the outcom
 ## What specific problem(s) will you solve? 
 
   1. Web scraping
-      * Gathering the pertnent data from websites to perform analysis.
+      * Gathering the pertinent data from websites to perform analysis.
   2. Basic Exploratory Analysis
       * Explore the current trends in the data.
       * Look for gaps in the understanding using the data
