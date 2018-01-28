@@ -4,15 +4,14 @@
 
 The Website will be desiged for specific group of people who are interested in sports(primarily UFC(Ultimate Fighting Championship),to include other sports as we progress)
 
-  1. Sports Analysts,
-  2. Journalists/New Channels
-  3. Sports Analyst
-  4. Sports Enthusiasts
-  5. Teams bidding for the players
+  1. Sports Analysts
+  2. Journalists/News Channels
+  3. Sports Enthusiasts
+  4. Teams bidding for the players
 
 ## What are their needs? 
 
-  1. Sport Enthusiast wants to predict the fight/game outcomes.
+  1. Sport enthusiast wants to predict the fight/game outcomes.
   2. News channels and journalist wants to forecast the outcomes for their viewers.
   3. All of them need access to player statistics.
 
