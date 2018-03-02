@@ -1,37 +1,44 @@
-# Django Starter Project
+# Project Description
 
-This is the starter project for our Django related projects. It's been pre-configured for deployment on [Heroku](http://heroku.com/).
+## Who are your customers? 
 
-## Example Deliverables
+The Website will be desiged for specific group of people who are interested in sports(primarily UFC(Ultimate Fighting Championship),to include other sports as we progress)
 
-We'll use GitHub functionality and Heroku to complete the project. Deliverables for a project might look like.  **Note: See your Course Syllabus and Assignments for course specific details**
+  1. Sports Analysts
+  2. Journalists/News Channels
+  3. Sports Enthusiasts
+  4. Teams bidding for the players
 
-- Deliverable 1 - Project Proposal (Using GitHub Pages)
-  - Who are your customers?
-  - What are their needs?
-  - What specific problem(s) will you solve?
-  - Why do these problems need solved?
-  - Where are you going to pull the data from?
-- Deliverable 2 - Project Board (Using GitHub Project Boards)
-  - A detailed list of tasks that need performed in order to accomplish this project.
-- Deliverable 3 - Web Scraped Data Review (Using GitHub)
-  - An example CSV file that contains data scraped and/or extracted from your data sources.
-  - Associated source code that scrapes and/or pulls the data.
-- Deliverable 4 - UI Wireframe Review (Using GitHub Pages)
-  - Basic wireframes or screenshot captures documented in your GitHub pages with a detailed description of the application.
-- Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo
-  - Source Code will be Posted on GitHub
-  - Project Board will use GitHub Project Boards
-  - Documentation will use GitHub Pages
-  - Deployed Application will be hosted on Heroku
-  - Demo will be performed In-Class
+## What are their needs? 
 
-## Useful Links
+  1. Sport enthusiast wants to predict the fight/game outcomes.
+  2. News channels and journalist wants to forecast the outcomes for their viewers.
+  3. All of them need access to player statistics.
 
-- [GitHub](https://github.com)
-- [GitHub Pages](https://pages.github.com)
-- [GitHub Project Boards](https://help.github.com/articles/about-project-boards)
-- [Heroku](https://www.heroku.com/)
-  - [Deploying Python](https://devcenter.heroku.com/articles/deploying-python)
-  - [Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)
-  - [Django Assets](https://devcenter.heroku.com/articles/django-assets)
+This website can display player/team statistics and help them predict the outcomes with sufficient accuracy.
+
+## What specific problem(s) will you solve? 
+
+  1. Web scraping
+      * Gathering the pertinent data from websites to perform analysis.
+  2. Basic Exploratory Analysis
+      * Explore the current trends in the data.
+      * Look for gaps in the understanding using the data
+  2. Peredictive Analysis (Based on the time availability)
+      * Predict the performance of the player
+ Overall Reducing the uncertainty in the game outcomes using the collected attributes/statistics about teams and players.
+
+## Why do these problems need solved?
+
+  1. Predicting sports outcome with sufficient accuracy is a still unsolved problem. 
+  2. Profit opportunities(betting) if we can predict game outcome with sufficient accuracy.
+
+## Where are you going to pull the data from?
+
+*Note: Subject to change based on the rights to scrape the website
+
+  1. UFC.com
+  2. Sherdog.com
+  3. NBA.com 
+  4. NFL.com 
+  5. Other Sports news websites like cbssports, bleacherreport
